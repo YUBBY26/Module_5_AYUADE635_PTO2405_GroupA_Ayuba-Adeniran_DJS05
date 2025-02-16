@@ -1,0 +1,22 @@
+body {
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+button {
+    background-color: gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 16px;
+    font-size: large;
+    margin-top: 0;
+    margin-bottom: 20px;
+    }
+    button:hover {
+        background-color: gold;
+        cursor: pointer;
+    }
