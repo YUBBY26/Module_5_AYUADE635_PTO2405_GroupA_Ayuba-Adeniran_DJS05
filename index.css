@@ -1,9 +1,9 @@
 body {
     background-color: beige;
-    display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    color: maroon;
 }
 button {
     background-color: gray;
